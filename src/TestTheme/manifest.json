@@ -1,0 +1,29 @@
+{
+	"name": "TestTheme",
+	"platform": "HTML",
+	"panels": [{
+		"name": "FoldablePanel",
+		"description": "This is foldable panel"
+	}],
+	"styles": [{
+			"name": "default",
+			"description": "this is default style",
+			"styleColor": "#586679"
+		}
+
+	],
+	"layouts": [{
+		"name": "default",
+		"description": "this is default layout"
+	}],
+	"widgets": [{
+		"name": "HeaderController",
+		"description": "this is theme widget controller"
+	}],
+	"version": "1.4",
+	"wabVersion": "1.4",
+	"author": "Esri R&D Center Beijing",
+	"description": "",
+	"copyright": "",
+	"license": "http://www.apache.org/licenses/LICENSE-2.0"
+}
